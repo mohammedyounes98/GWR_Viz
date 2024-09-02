@@ -46,7 +46,7 @@ cd GWR_Viz
 
 To run the app locally:
 
-1.  Open the `app.R` file in RStudio.
+1.  Open the `GWR_Viz.R` file in RStudio.
 
 2.  Click the "Run App" button, or use the following command in your R console:
 
